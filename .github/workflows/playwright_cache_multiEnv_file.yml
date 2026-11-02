@@ -16,8 +16,6 @@ on:
         type: choice
         options:
           - qa
-          - stage
-          - dev
           - uat
 
 jobs:
