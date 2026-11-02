@@ -63,7 +63,7 @@ jobs:
 
       - name: Run Playwright Tests
         env:
-          ENV: ${{ github.event.inputs.environment || 'qa' }}
+          ENVIRONMENT: ${{ github.event.inputs.environment || 'qa' }}
         run: npx playwright test --project=chromium
 
       - name: Upload HTML Report
