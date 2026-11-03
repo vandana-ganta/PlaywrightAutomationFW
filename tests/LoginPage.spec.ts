@@ -14,7 +14,7 @@ test("Verify Title",async({loginPage})=>
     let title:string=await loginPage.verifyLoginPageTitle()
     expect(title).toBe("Account Login")
 })
-test("Login with creds",async({loginPage})=>
+test("Login with creds @sanity",async({loginPage})=>
 {
     await loginPage.doLogin(process.env.USER_NAME!,process.env.PASSWORD!)
     
