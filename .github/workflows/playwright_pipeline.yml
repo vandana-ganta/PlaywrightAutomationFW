@@ -245,6 +245,21 @@ jobs:
       - name: Checkout QA Automation Repository
         uses: actions/checkout@v4
 
+      - name: Verify Checkout Repository
+  run: |
+    echo "Expected Repository: $GITHUB_REPOSITORY"
+    echo "Actual Repository:"
+    git remote -v
+
+    echo "Commit:"
+    git log -1 --oneline
+
+    echo "Test Files:"
+    find tests -type f -name "*.spec.ts"
+
+    echo "Discovered Tests:"
+    npx playwright test --list --project=chromium
+
       # ---------------------------------------------------------
       # Setup Node.js
       # ---------------------------------------------------------
