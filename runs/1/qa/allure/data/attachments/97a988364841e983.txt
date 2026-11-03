@@ -1,0 +1,72 @@
+[
+  {
+    id: 8695132,
+    name: 'Kabir Menon',
+    email: 'kabir_menon_16016@nair.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8695131,
+    name: 'Kavya Joshi',
+    email: 'kavya_joshi_45407@das.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8695130,
+    name: 'Tara Kulkarni',
+    email: 'tara_kulkarni_34098@nair.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8695129,
+    name: 'Reyansh Gupta',
+    email: 'reyansh_gupta_66361@mehta.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8695128,
+    name: 'Lakshmi Verma',
+    email: 'lakshmi_verma_44820@agarwal.example',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8695127,
+    name: 'Vivaan Singh',
+    email: 'vivaan_singh_55457@bhat.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8695126,
+    name: 'Vivaan Kumar',
+    email: 'vivaan_kumar_81110@kulkarni.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8695125,
+    name: 'Uma Agarwal',
+    email: 'uma_agarwal_13643@agarwal.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8695124,
+    name: 'Ravi Rao',
+    email: 'ravi_rao_1173@sharma.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8695123,
+    name: 'Anjali Desai',
+    email: 'anjali_desai_39810@bhat.example',
+    gender: 'female',
+    status: 'inactive'
+  }
+]

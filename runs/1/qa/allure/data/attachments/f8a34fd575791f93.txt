@@ -1,0 +1,8 @@
+{
+  id: 8697157,
+  name: 'Nishant Automation',
+  email: 'nltech1793693518403@gmail.com',
+  gender: 'male',
+  status: 'active'
+}
+User Id is : 8697157
