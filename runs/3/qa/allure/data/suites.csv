@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6706","Verify Title","chromium","2026-11-03","passed","2026-11-03","","LoginPage.spec.ts","",""
+"","6754","Register Link visible","chromium","2026-11-03","passed","2026-11-03","","LoginPage.spec.ts","",""
+"","15571","Login with creds @sanity","chromium","2026-11-03","passed","2026-11-03","","LoginPage.spec.ts","",""
